@@ -6,8 +6,8 @@ Before the anchor is bound, the Pages site reports `awaiting-binding`. It publis
 
 - Artwork and invitation: https://being.averylake.art/
 - Public backup: https://averylake.github.io/a-breath-given-record/
-- Anchor on Ethereum: `0x313F9b7FDfDc74e790Ab2836a553Fd4eDa9147a6`
-- Primary: https://breath-given-record.spring-bird-d2ad.workers.dev
+- Anchor on Ethereum: `0x333184f9Bca63054a9Ee3582609991758f3Fb6e5`
+- Primary: https://breath-record.averylake.art
 
 ## Reproduce
 
