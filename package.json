@@ -1,0 +1,12 @@
+{
+  "name": "a-breath-given-record",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ethers": "6.17.0"
+  },
+  "packageManager": "pnpm@11.19.0",
+  "engines": {
+    "node": ">=24"
+  }
+}
