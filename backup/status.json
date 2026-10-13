@@ -1,7 +1,7 @@
 {
-  "phase": "open",
+  "phase": "sealed",
   "places": 19,
   "pages": 2,
-  "sealedSHA256": null,
+  "sealedSHA256": "a9f7ca16eb28e6eb123f445d67882587a968aa8ee8961f7724c4c9af2ceb8057",
   "anchor": "0x333184f9Bca63054a9Ee3582609991758f3Fb6e5"
 }
